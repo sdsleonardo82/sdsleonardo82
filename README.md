@@ -8,6 +8,8 @@ Eu me chamo  Hugo Leonardo, sou programador front end, atualmente aprendendo e c
   
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt='javascript-logo'/>
   
+  - <img src="https://th.bing.com/th/id/R.70685ce78b5ff1c0b088f04ebf1389d8?rik=9ZXUTxlbPRB3qg&pid=ImgRaw&r=0" alt='GitHub-logo'/>
+  
  Estou iniciando aprendizado abaixo:
   
    - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt='react-logo'/>
