@@ -8,7 +8,7 @@ Eu me chamo  Hugo Leonardo, sou programador front end, atualmente aprendendo e c
   
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt='javascript-logo'/>
   
-  - <img src="https://th.bing.com/th/id/R.70685ce78b5ff1c0b088f04ebf1389d8?rik=9ZXUTxlbPRB3qg&pid=ImgRaw&r=0" alt='GitHub-logo'/>
+  - <img src="[https://th.bing.com/th/id/R.70685ce78b5ff1c0b088f04ebf1389d8?rik=9ZXUTxlbPRB3qg&pid=ImgRaw&r=0](https://th.bing.com/th/id/OIP.qdiXe0vKmri2QBmj_IM-dQHaBl?w=315&h=74&c=7&r=0&o=5&pid=1.7)" alt='GitHub-logo'/>
   
  Estou iniciando aprendizado abaixo:
   
